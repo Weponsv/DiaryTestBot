@@ -1,0 +1,7 @@
+python-telegram-bot
+httpx
+asyncio
+nest_asyncio
+colorama
+psutil
+requests
